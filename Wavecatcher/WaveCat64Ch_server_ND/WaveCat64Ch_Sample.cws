@@ -1,0 +1,264 @@
+[Workspace Header]
+Version = 1500
+Pathname = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_server_ND/WaveCat64Ch_Sample.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2015"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2015"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "WaveCat64Ch_Sample.prj"
+Drag Bar Left = 160
+Window Top = 48
+Window Left = 180
+Window Bottom = 550
+Window Right = 970
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 5
+Window Confinement Region Enabled = True
+MainColumnWidth = 143
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 1500
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Release"
+Warn User If Debugging Release = 0
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_server_ND/WaveCat64Ch_Sample.c"
+File Type = "CSource"
+Disk Date = 3570467236
+In Projects = "1,"
+Window Top = 40
+Window Left = 11
+Window Z-Order = 1
+Source Window State = "1,192,192,192,21,22,22,0,0,211,0,0,0,0,0,44,219,0,244,14,258,555,1,0,"
+
+[File 0002]
+Path = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_server_ND/server.h"
+File Type = "Include"
+Disk Date = 3570593336
+In Projects = "1,"
+Window Top = 116
+Window Left = 51
+Window Z-Order = 4
+Source Window State = "1,46,46,46,28,30,28,0,0,87,0,0,0,0,0,25,15,0,46,30,349,771,1,0,"
+
+[File 0003]
+Path = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_server_ND/server.c"
+File Type = "CSource"
+Disk Date = 3571226215
+In Projects = "1,"
+Window Top = 78
+Window Left = 31
+Window Z-Order = 3
+Source Window State = "1,403,403,403,51,62,62,0,0,87,0,247,0,0,0,25,36,0,369,29,349,771,1,13,"
+
+[File 0004]
+Path = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_server_ND/WaveCat64ch_Lib.h"
+File Type = "Include"
+Disk Date = 3524658766
+In Projects = "1,"
+Window Top = 122
+Window Left = 58
+Window Z-Order = 2
+Source Window State = "1,206,206,206,4,22,4,0,0,81,0,0,0,0,0,25,144,0,156,50,349,723,1,0,"
+
+[File 0005]
+Path = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_server_ND/WaveCat64Ch_Sample.h"
+File Type = "Include"
+Disk Date = 3537548567
+In Projects = "1,"
+Window Top = 182
+Window Left = 90
+Window Z-Order = 5
+Source Window State = "1,112,112,112,0,6,6,0,0,81,0,0,0,0,0,25,95,0,96,45,349,723,1,0,"
+
+[File 0006]
+Path = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_server_ND/WaveCat64Ch_RatePanel.h"
+File Type = "Include"
+Disk Date = 3499774556
+In Projects = "1,"
+Window Top = 152
+Window Left = 74
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,349,723,1,0,"
+
+[File 0007]
+Path = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_server_ND/server.uir"
+File Type = "User Interface Resource"
+Disk Date = 3517426800
+In Projects = "1,"
+Window Top = 40
+Window Left = 11
+Window Height = 349
+Window Width = 771
+
+[File 0008]
+Path = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_server_ND/WaveCat64Ch_RatePanel.uir"
+File Type = "User Interface Resource"
+Disk Date = 3499871568
+In Projects = "1,"
+Window Top = 212
+Window Left = 106
+Window Height = 349
+Window Width = 723
+
+[File 0009]
+Path = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_server_ND/WaveCat64Ch_Sample.uir"
+File Type = "User Interface Resource"
+Disk Date = 3528277270
+In Projects = "1,"
+Window Top = 92
+Window Left = 42
+Window Height = 349
+Window Width = 723
+
+[File 0010]
+Path = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_server_ND/WaveCat64Ch.lib"
+File Type = "Library"
+Disk Date = 3536231770
+In Projects = "1,"
+
+[File 0011]
+Path = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_dbg.lib"
+File Type = "Library"
+Disk Date = 0
+In Projects = "1,"
+
+[File 0012]
+Path = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_server_ND/WaveCat64Chx64.lib"
+File Type = "Library"
+Disk Date = 3536231790
+In Projects = "1,"
+
+[File 0013]
+Path = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Chx64_dbg.lib"
+File Type = "Library"
+Disk Date = 0
+In Projects = "1,"
+
+[Tab Order]
+Tab 0001 = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_server_ND/WaveCat64Ch_Sample.c"
+Tab 0002 = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_server_ND/server.c"
+Tab 0003 = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_server_ND/server.h"
+Tab 0004 = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_server_ND/WaveCat64Ch_Sample.h"
+Tab 0005 = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_server_ND/WaveCat64ch_Lib.h"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
+[Distributions]
+Active Index = 2
+AbsCDSPath 0001 Line0001 = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_server_ND/WaveCatcher64Ch_Sample.cd"
+AbsCDSPath 0001 Line0002 = "s"
+RelCDSPath 0001 = "WaveCatcher64Ch_Sample.cds"
+AbsCDSPath 0002 Line0001 = "/c/work_delerue/PHIL/Wavecatcher/WaveCat64Ch_server_ND/WaveCatcher64Ch_Sample_1."
+AbsCDSPath 0002 Line0002 = "cds"
+RelCDSPath 0002 = "WaveCatcher64Ch_Sample_1.cds"
+
